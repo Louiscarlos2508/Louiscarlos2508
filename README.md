@@ -36,8 +36,8 @@ Actuellement en train de construire **Scalario**, un ERP SaaS B2B pour les PME d
 
 ## 🚀 Projets principaux
 
-### [Scalario](https://github.com/Louiscarlos2508) — ERP SaaS B2B *(en cours)*
-> Next.js · NestJS · Supabase · Flutter  
+### Scalario — ERP SaaS B2B *(en cours)*
+> FastAPI · NestJS · Supabase · Flutter  
 > Plateforme de digitalisation des PME de la zone UEMOA (Retail, Services, Distribution).
 
 ### ELYF Group App — ERP multi-tenant Flutter
