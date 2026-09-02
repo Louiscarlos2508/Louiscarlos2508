@@ -12,8 +12,6 @@
 ![Repos](https://img.shields.io/badge/Repos-15-blue?style=flat)
 ![Coding](https://img.shields.io/badge/Dart-Flutter%20Dev-blue?style=flat)
 
-[![Carlos's GitHub stats](https://github-readme-stats-indol-rho-63.vercel.app/api?username=Louiscarlos2508&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/Louiscarlos2508)
-[![Top Langs](https://github-readme-stats-indol-rho-63.vercel.app/api/top-langs/?username=Louiscarlos2508&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Louiscarlos2508)
 
 ---
 
