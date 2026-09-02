@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Simporé 👋
 
-**Développeur Full Stack · Architecte Logiciel · IA-Augmented · Freelance**  
+**Architecte Logiciel Full Stack · Flutter & FastAPI · IA-Augmented · Freelance**  
 📍 Ouagadougou, Burkina Faso · 📧 carlossimpore25@outlook.com
 
 ---
@@ -16,12 +16,12 @@
 
 ## À propos
 
-Développeur autodidacte, titulaire d'une Licence en Génie Informatique.  
-Je conçois des **plateformes d'entreprise** complexes (ERP, POS, e-commerce, e-santé) avec une architecture industrielle rigoureuse — **DDD, CQRS, Event Sourcing, Clean Architecture**, offline-first, déploiement production.
+Architecte logiciel autodidacte, titulaire d'une Licence en Génie Informatique.
+Je conçois des **plateformes d'entreprise distribuées** (ERP, POS, e-commerce, e-santé) avec une architecture industrielle rigoureuse — **DDD, CQRS, Event Sourcing, Clean Architecture, MDI Workbench**, offline-first, déploiement production.
 
-**Full Stack** : du frontend mobile/desktop au backend serveur, en passant par l'infrastructure cloud.  
-**Architecte** : j'applique les patterns d'architecture logicielle les plus exigeants (ports & adapters, bounded contexts, idempotence, chaînage immuable).  
-**IA-Augmented** : j'intègre l'IA dans mon workflow (orchestration d'agents autonomes BMAD) et dans les produits (assistants contextuels, GenUI).
+**Full Stack** : du frontend mobile/desktop au backend serveur, en passant par l'infrastructure cloud et la distribution Windows.  
+**Architecte** : 76 invariants architecturaux formels (AD-01 à AD-76), contrôle de frontière entre domaines, revue contradictoire automatisée.  
+**IA-Augmented** : orchestration d'agents autonomes (BMAD, pipeline multi-rôles Writer → Reviewer → Validator), UI générative (GenUI/A2UI), copilot contextuel intégré au produit.
 
 Actuellement en train de construire **Scalario** — un ERP SaaS B2B "Management IDE" pour les PME de la zone UEMOA, inspiré de la rigueur ergonomique de VS Code.
 
@@ -33,16 +33,22 @@ Actuellement en train de construire **Scalario** — un ERP SaaS B2B "Management
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-purple?style=flat)
-![Go Router](https://img.shields.io/badge/GoRouter-red?style=flat)
+![GoRouter](https://img.shields.io/badge/GoRouter-009688?style=flat)
+![Flutter Desktop](https://img.shields.io/badge/Flutter_Desktop-0d47a1?style=flat)
+![Windows Desktop](https://img.shields.io/badge/Windows_Desktop-0078D6?style=flat&logo=windows&logoColor=white)
 
 **Backend & BDD**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat)
+![Pydantic v2](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![JSON Schema](https://img.shields.io/badge/JSON_Schema-6CB4EE?style=flat)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
@@ -52,24 +58,35 @@ Actuellement en train de construire **Scalario** — un ERP SaaS B2B "Management
 ![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-9B59B6?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2ECC71?style=flat)
 ![MDI Workbench](https://img.shields.io/badge/MDI_Workbench-3498DB?style=flat)
+![SDUI](https://img.shields.io/badge/Server_Driven_UI-16A085?style=flat)
+![Outbox Pattern](https://img.shields.io/badge/Transactional_Outbox-f39c12?style=flat)
+![Unit of Work](https://img.shields.io/badge/Unit_of_Work-7f8c8d?style=flat)
+![Ports Adapters](https://img.shields.io/badge/Ports_Adapters-34495e?style=flat)
 
 **Cloud & Sécurité**
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat)
 ![RBAC](https://img.shields.io/badge/RBAC-27AE60?style=flat)
 ![ABAC](https://img.shields.io/badge/ABAC-16A085?style=flat)
+![Google CEL](https://img.shields.io/badge/Google_CEL-4285F4?style=flat)
 ![SHA256](https://img.shields.io/badge/SHA256_Audit-e74c3c?style=flat)
+![RLS](https://img.shields.io/badge/Row_Level_Security-8e44ad?style=flat)
+![Crypto-shredding](https://img.shields.io/badge/Crypto_shredding-6c3483?style=flat)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
 
 **IA / Dev Augmenté**
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![BMAD](https://img.shields.io/badge/BMAD_Agents-8E44AD?style=flat)
-![GenUI / A2UI](https://img.shields.io/badge/GenUI_A2UI-E67E22?style=flat)
+![GenUI](https://img.shields.io/badge/GenUI_A2UI-E67E22?style=flat)
+![Mermaid](https://img.shields.io/badge/Mermaid_Architecture-ff4666?style=flat)
 
-**DevOps & CI/CD**
+**DevOps & Distribution**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![InnoSetup](https://img.shields.io/badge/Inno_Setup-5B5B5B?style=flat)
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-F5C518?style=flat)
+![NSSM](https://img.shields.io/badge/NSSM_Service-009688?style=flat)
 ![Ruff](https://img.shields.io/badge/Ruff_linter-D7FF64?style=flat)
-
+![pytest](https://img.shields.io/
 ---
 
 ## 🔬 Compétences techniques clés
