@@ -146,7 +146,7 @@ Actuellement en train de construire **Scalario** — un ERP SaaS B2B "Management
 
 ## 🚀 Projets principaux
 
-### Scalario — ERP SaaS B2B "Management IDE" *(en cours)*
+### Scalario — ERP SaaS B2B "Management IDE" *(prodution & dev en continue)*
 > **FastAPI · PostgreSQL · Flutter Desktop · Python · DDD/CQRS/Event Sourcing**  
 > Plateforme de digitalisation des PME de la zone UEMOA (Retail, Services, Distribution).  
 > Architecture DDD avec 13+ bounded contexts, CQRS avec projections temps réel, Event Sourcing avec canonical event envelopes versionnées.  
