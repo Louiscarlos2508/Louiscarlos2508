@@ -21,6 +21,9 @@ I hold a **Bachelor's-equivalent degree (Licence) in Computer Engineering Techno
 **Scalario — Founder**  
 Building a **model-first business system engineering platform**. The goal is to turn business requirements into explicit entities, rules, workflows, and capabilities through an AI Architect, inspect those models in a Flutter-based Studio, and execute them through a Rust-based runtime. **Active development; the main repository is private.**
 
+**method+ — Business Management Platform**  
+Building a modular Flutter Desktop and Python application for complex business operations. Its architecture covers domain modeling, offline-first synchronization, tenant-aware workflows, and automated tests. The product is under active development and its repository is private. method+ is separate from the Scalario platform.
+
 **INTECAI — CTO & Co-founder**  
 Technical leadership and software engineering for business-focused applications and client projects.
 
